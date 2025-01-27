@@ -25,7 +25,7 @@
 
 ---
 ## 📈 **Activity**
-You can find more of my activity on my [GitLab profile](https://gitlab.com/GitBliumkin). Here's a snapshot of my recent contributions:
+You can find more of my activity on my [GitLab profile](https://gitlab.com/GitBliumkin). Here's a snapshot of my recent contributions :)
 
 ▢▢▢▢▢▢▢▢▢▢▩▢▢▩▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▢▢▩▢▩▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▢▢▢▩▢▢▢▢▢▢▢ 
 ▢▢▢▩▢▢▩▢▢▢▩▩▩▢▢▢▢▢▢▢ ▢▢▢▢▢▩▢▩▩▢▢▢▩▢▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▩▢▢▢▢▢▢▢▢▢▢ 
