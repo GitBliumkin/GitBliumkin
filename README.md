@@ -24,6 +24,14 @@
 **Other Skills**: Microservices, REST/Soap APIs, OAuth 2.0, Caching, Unit Testing  
 
 ---
+## 📈 **Activity**
+You can find more of my activity on my [GitLab profile](https://gitlab.com/GitBliumkin). Here's a snapshot of my recent contributions:
+
+▢▢▢▢▢▢▢▢▢▢▩▢▢▩▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▢▢▩▢▩▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▢▢▢▩▢▢▢▢▢▢▢ 
+▢▢▢▩▢▢▩▢▢▢▩▩▩▢▢▢▢▢▢▢ ▢▢▢▢▢▩▢▩▩▢▢▢▩▢▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▩▢▢▢▢▢▢▢▢▢▢ 
+▢▢▢▢▢▢▩▢▩▢▩▢▩▩▩▩▢▢▢▢ ▢▢▢▢▩▩▩▢▢▩▩▢▢▢▩▩▩▢▢▢ ▢▢▢▢▩▩▩▩▩▩▢▢▢▩▢▢▢▢▢▢ 
+▢▢▢▢▢▩▢▩▩▩▢▢▩▢▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▢▢▩▩▢▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▩▩▩▢▢▢▢▢▢▢▢ 
+▢▢▢▢▢▢▢▢▩▢▢▢▢▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▢▢▢▢▢▢▢▢▢▢▢▢ ▢▢▢▢▩▩▩▢▢▢▢▩▢▢▢▢▢▢▢▢ 
 
 ## 🏆 **Experience Highlights**
 - **VieBid: Online Auction Housing**: A high-availability auction platform supporting real-time operations for thousands of users.  ~ xp. 1 year
@@ -41,4 +49,5 @@
 ## 📫 **Let’s Connect!**
 - **Email**: [n.bliumkin@gmail.com](mailto:n.bliumkin@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/nikita-bliumkin](#)  
-- **GitHub**: [github.com
+- **GitHub**: [github.com](#)  
+- **GitLab**: [gitlab.com/GitBliumkin](https://gitlab.com/GitBliumkin)
