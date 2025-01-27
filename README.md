@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikita Bliumkin!
+# 👋 Hi, I'm Nikita!
 
 🚀 **Full-Stack Developer** passionate about building scalable, real-time solutions and crafting innovative applications that solve real-world problems.
 
